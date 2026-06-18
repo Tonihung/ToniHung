@@ -1,5 +1,3 @@
-**ToniHung / README.md**
-
 ### Nguyen Gia Hung
 
 An Integrated Circuit Design Student @ University of Information Technology - VNUHCM
