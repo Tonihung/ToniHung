@@ -1,6 +1,6 @@
 ### Nguyen Gia Hung
 
-An Integrated Circuit Design Student @ University of Information Technology - VNUHCM
+An **Integrated Circuit Design** Student at the **University of Information Technology - VNUHCM**
 
 ---
 
