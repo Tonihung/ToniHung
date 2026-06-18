@@ -1,4 +1,4 @@
-# Nguyen Gia Hung
+Nguyen Gia Hung
 An **Integrated Circuit Design student** at the **University of Information Technology (UIT) - VNUHCM**.
 
 ---
