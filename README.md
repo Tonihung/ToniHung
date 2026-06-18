@@ -10,8 +10,8 @@ An Integrated Circuit Design Student @ University of Information Technology - VN
 
 - Personal: [nguyengiahung317@gmail.com](mailto:nguyengiahung317@gmail.com)
 - School: [24520603@gm.uit.edu.vn](mailto:24520603@gm.uit.edu.vn)
-- Facebook: [Nguyễn Hùng]([https://facebook.com/](https://www.facebook.com/nguyen.hung.309376))
-- LinkedIn: [Hung Nguyen Gia]([https://linkedin.com/in/](https://www.linkedin.com/in/nguyengiahung-toni/))
+- Facebook: [Nguyễn Hùng](https://www.facebook.com/nguyen.hung.309376)
+- LinkedIn: [Hung Nguyen Gia](https://www.linkedin.com/in/nguyengiahung-toni/)
 
 ---
 
